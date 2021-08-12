@@ -1,0 +1,2 @@
+localStorage.setItem('user_name', 'Abhijit Dharangutte');
+localStorage.setItem('user_email', 'abhijitjd003@gmail.com');
